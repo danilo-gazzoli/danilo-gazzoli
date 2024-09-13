@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Danilo Martins Gazzoli, i'm a backend software developer who new skills and experiences.</p>
+<p align="center">My name is Danilo Martins Gazzoli, i'm a backend software developer who new skills and experiences.</p>
 
 ###
 
