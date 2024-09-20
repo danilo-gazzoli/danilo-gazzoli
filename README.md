@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nilo1509/nilo1509/output/snake.svg" alt="Snake animation" />
-
-###
