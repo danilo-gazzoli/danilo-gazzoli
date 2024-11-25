@@ -1,16 +1,16 @@
-<h1 align="left">👋 About me 👋</h1>
+<h1 align="center">👋 About me 👋</h1>
 
 ###
 
-<p align="left">My name is Danilo Martins Gazzoli, i'm a backend software developer who new skills and experiences.</p>
+<p align="center">My name is Danilo Martins Gazzoli, i'm a backend software developer who new skills and experiences.</p>
 
 ###
 
-<h2 align="left">⚡️🧠 My skills and tech's 🧠⚡️</h2>
+<h2 align="center">⚡️🧠 My skills and tech's 🧠⚡️</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
