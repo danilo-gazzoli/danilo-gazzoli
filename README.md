@@ -32,13 +32,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="44" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="44" alt="discord logo"  />
-</div>
-
-###
-
 <h2 align="center">🔥🌟 My stats and statistics 🌟🔥</h2>
 
 ###
