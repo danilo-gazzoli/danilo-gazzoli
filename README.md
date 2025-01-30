@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Danilo Martins Gazzoli, i'm a backend software developer searching for new chalanges to improve my development skills. At this moment, I'm enjoying with Python (to create datascience projects envolve financial market), Ruby on Rails (to quickly web applications development) and C (to improve my algorithms skills and knowledge of data structure.<br><br>What fascinates me about the tech field is the ability to impact the world, solving complex problems with simple solutions or bringing briliant ideias to life. This is what motivates me to become a great software engineer<br><br>Just below are my social networks and personal projects</p>
+<p align="left">My name is Danilo Martins Gazzoli, i'm a backend software developer searching for new chalanges to improve my development skills. At this moment, I'm enjoying with Python (to create datascience projects envolve financial market), Ruby on Rails (to quickly web applications development) and C (to improve my algorithms skills and knowledge of data structure.<br><br>What fascinates me about the tech field is the ability to impact the world, solving complex problems with simple solutions or bringing briliant ideias to life. This is what motivates me to become a great software engineer.<br><br>Just below are my social networks and personal projects.</p>
 
 ###
 
