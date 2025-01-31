@@ -1,4 +1,4 @@
-<h1 align="center">👋 About m 👋</h1>
+<h1 align="center">👋 About me 👋</h1>
 
 ###
 
